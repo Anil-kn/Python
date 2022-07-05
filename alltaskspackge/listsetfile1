@@ -1,0 +1,22 @@
+INFO:root:this is the taks2 which is related to lists please refer the logging file to observe the results
+INFO:root:1 . Try to reverse a list
+INFO:root:[3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO:root:this is the reverse list result:- [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO:root:2. try to access 234 out of this list
+INFO:root:[3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO:root:this is the accessing a  list result:- 234
+INFO:root:3 . try to access 456
+INFO:root:[3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO:root:this is the accessing a  listnumber result:- 456
+INFO:root:4 . Try to extract only a list collection form list l
+INFO:root:[3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO:root:this is the accessing a  extractlist from collection result:- [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]]
+INFO:root:4 . Try to extract only a list collection form list l
+INFO:root:[3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO:root:this is the accessing a  extracta key sudh from collection result:- sudh
+INFO:root:6 . Try to list all the key in dict element avaible in list
+INFO:root:[3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO:root:this is the accessing a  extracta key sudh from collection result:- ['key1', 234]
+INFO:root:6 . Try to list all the key in dict element avaible in list
+INFO:root:[3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO:root:this is the accessing a  extracta key sudh from collection result:- ['sudh', [23, 45, 656]]

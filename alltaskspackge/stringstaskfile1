@@ -1,0 +1,67 @@
+INFO:root:This task is related to strings please go to the corresponding logging file to find the results 
+INFO:root:6 . Write a diference between isalnum() and isalpha() 
+INFO:root:1 . Try to extract data from index one to index 300 with a jump of 3 
+INFO:root:this is My First Python programming class and i am learNING python string and its function
+INFO:root:this is the extracted string:- tssyityopgmncsa alrNph rgni ni
+INFO:root:2. Try to reverse a string without using reverse function 
+INFO:root:this is My First Python programming class and i am learNING python string and its function
+INFO:root:this is the reverse string:-  noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+INFO:root:3. Try to split a string after conversion of entire string in uppercase 
+INFO:root:this is My First Python programming class and i am learNING python string and its function
+INFO:root:this is the split string:-  ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+INFO:root:4. try to convert the whole string into lower case 
+INFO:root:this is My First Python programming class and i am learNING python string and its function
+INFO:root:this is the lowercase string:-  this is my first python programming class and i am learning python string and its function
+INFO:root:5 . Try to capitalize the whole string 
+INFO:root:this is My First Python programming class and i am learNING python string and its function
+INFO:root:this is the string capitalize string:-  This is my first python programming class and i am learning python string and its function
+INFO:root:6 . Write a diference between isalnum() and isalpha() 
+INFO:root:sudhfsdf12345
+INFO:root:this is the string isalpha string:-  False
+INFO:root:this is the string isalpha string:-  True
+INFO:root:7. Try to give an example of expand tab
+INFO:root:xyzyu	12345	abc
+INFO:root:this is the string expand  string:-  xyzyu   12345   abc
+INFO:root:8 . Give an example of strip , lstrip and rstrip
+INFO:root:               baby           
+INFO:root:this is the string of rstrip:-                 baby
+INFO:root:this is the string of rstrip:-  baby           
+INFO:root:this is the string of rstrip:-  baby
+INFO:root:9.  Replace a string charecter by another charector by taking your own example
+INFO:root:Cold storage
+INFO:root:this is the string of rstrip:-  Cold container
+INFO:root:This task is related to strings please go to the corresponding logging file to find the results 
+INFO:root:6 . Write a diference between isalnum() and isalpha() 
+INFO:root:1 . Try to extract data from index one to index 300 with a jump of 3 
+INFO:root:this is My First Python programming class and i am learNING python string and its function
+INFO:root:this is the extracted string:- tssyityopgmncsa alrNph rgni ni
+INFO:root:2. Try to reverse a string without using reverse function 
+INFO:root:this is My First Python programming class and i am learNING python string and its function
+INFO:root:this is the reverse string:-  noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+INFO:root:3. Try to split a string after conversion of entire string in uppercase 
+INFO:root:this is My First Python programming class and i am learNING python string and its function
+INFO:root:this is the split string:-  ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+INFO:root:4. try to convert the whole string into lower case 
+INFO:root:this is My First Python programming class and i am learNING python string and its function
+INFO:root:this is the lowercase string:-  this is my first python programming class and i am learning python string and its function
+INFO:root:5 . Try to capitalize the whole string 
+INFO:root:this is My First Python programming class and i am learNING python string and its function
+INFO:root:this is the string capitalize string:-  This is my first python programming class and i am learning python string and its function
+INFO:root:6 . Write a diference between isalnum() and isalpha() 
+INFO:root:sudhfsdf12345
+INFO:root:this is the string isalpha string:-  False
+INFO:root:this is the string isalpha string:-  True
+INFO:root:7. Try to give an example of expand tab
+INFO:root:xyzyu	12345	abc
+INFO:root:this is the string expand  string:-  xyzyu   12345   abc
+INFO:root:8 . Give an example of strip , lstrip and rstrip
+INFO:root:               baby           
+INFO:root:this is the string of rstrip:-                 baby
+INFO:root:this is the string of rstrip:-  baby           
+INFO:root:this is the string of rstrip:-  baby
+INFO:root:9.  Replace a string charecter by another charector by taking your own example
+INFO:root:Cold storage
+INFO:root:this is the string of rstrip:-  Cold container
+INFO:root: 10 . Try  to give a defination of string center function with and exmple
+INFO:root:Coder
+INFO:root:this is the string of rstrip:-  **Coder***

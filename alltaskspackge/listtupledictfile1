@@ -1,0 +1,81 @@
+INFO:root:this will give information about code output
+INFO:root:
+INFO:root: q1 : print ineuron in trial
+INFO:root:the number of input to print pattern is:- 5
+INFO:root:ineuron 
+INFO:root:ineuron ineuron 
+INFO:root:ineuron ineuron ineuron 
+INFO:root:ineuron ineuron ineuron ineuron 
+INFO:root:ineuron ineuron ineuron ineuron ineuron 
+INFO:root: q2 : print ineuron in diamond pattern2
+INFO:root:                              
+INFO:root:           ineuron            
+INFO:root:       ineuron ineuron        
+INFO:root:   ineuron ineuron ineuron    
+INFO:root:       ineuron ineuron        
+INFO:root:           ineuron            
+INFO:root:q3 : Try to extract all the list entity 
+INFO:root:[[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']]
+INFO:root:extracted list of data from list list1:- [1, 2, 3, 4]
+INFO:root:extracted list of data from list list1:- ['ineuron', 'data science ']
+INFO:root: q4 : Try to extract all the dict enteties
+INFO:root:the only dictionary values are:- {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO:root:# q5 : Try to extract all the tuples entities
+INFO:root:extract only tuples fromlist l(2, 3, 4, 5, 6)
+INFO:root:extract only tuples fromlist l(3, 4, 5, 6, 7)
+INFO:root:q6 : Try to extract all the numerical data it may b a part of dict key and values
+INFO:root:[[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']]
+INFO:root:[1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 3, 6, 7, 8]
+INFO:root:Q7.the sum of all numeric data 156
+INFO:root:q12 : Try to filter out all the string data[[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']]
+INFO:root:All the strings in a listineuron
+INFO:root:All the strings in a listdata science 
+INFO:root:q8 : Try to filter out all the odd values out all numeric data which is a part of a list
+INFO:root:Allodd values in a list l1:- 1
+INFO:root:Allodd values in a list l1:- 3
+INFO:root:Allodd values in a list l1:- 3
+INFO:root:Allodd values in a list l1:- 5
+INFO:root:Allodd values in a list l1:- 3
+INFO:root:Allodd values in a list l1:- 5
+INFO:root:Allodd values in a list l1:- 7
+INFO:root:Allodd values in a list l1:- 45
+INFO:root:Allodd values in a list l1:- 5
+INFO:root:Allodd values in a list l1:- 23
+INFO:root:Allodd values in a list l1:- 3
+INFO:root:Allodd values in a list l1:- 7
+INFO:root:q9 : Try to extract "ineruon" out of this data
+INFO:root:the ineuron number of times:-['ineuron', 'ineuron']
+INFO:root:q10 : Try to find out a number of occurances of all the data
+INFO:root:[1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 3, 6, 7, 8]
+INFO:root:1:1
+INFO:root:2:2
+INFO:root:3:4
+INFO:root:4:4
+INFO:root:5:3
+INFO:root:6:3
+INFO:root:7:2
+INFO:root:8:1
+INFO:root:45:1
+INFO:root:23:1
+INFO:root:q11 : Try to find out number of keys in dict element
+INFO:root:[[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']]
+INFO:root:the number of key in a list:- 5
+INFO:root:q12 : Try to filter out all the string data[[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']]
+INFO:root:All the strings in a listineuron
+INFO:root:All the strings in a listdata science 
+INFO:root:q13 : Try to Find  out alphanum in data
+INFO:root:All alphanum data in a extracted list:- k1
+INFO:root:All alphanum data in a extracted list:- sudh
+INFO:root:All alphanum data in a extracted list:- k2
+INFO:root:All alphanum data in a extracted list:- ineuron
+INFO:root:All alphanum data in a extracted list:- k3
+INFO:root:All alphanum data in a extracted list:- kumar
+INFO:root:All alphanum data in a extracted list:- ineuron
+INFO:root:q14 : Try to find out multiplication of all numeric value in the individual collection inside dataset
+INFO:root:[[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']]
+INFO:root:<class 'list'>24
+INFO:root:<class 'tuple'>720
+INFO:root:<class 'tuple'>2520
+INFO:root:<class 'set'>20700
+INFO:root:<class 'dict'>1008
+INFO:root:<class 'list'>1
